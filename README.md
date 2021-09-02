@@ -111,10 +111,10 @@ Seja bem vindo ao projeto base do Alurakut !!! Passos fundamentais:
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/igorgaldiano80/alurakut'/>](https://github.com/igorgaldiano80/alurakut)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/mteruya/alurakut'/>](https://alurakut-jade.vercel.app/)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/LeatherFalls/alurakut'/>](alurakut-azure-kappa.vercel.app)
-| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/moisaporto/alurakut'/>](alurakut-theta-five.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Jwfelipee/Alurakut'/>](alurakut-sandy.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/camilafernanda/alurakut-base'/>](https://alurakut-livid-one.vercel.app/)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/johnwss/alurakut01'/>](alurakut01-mauve.vercel.app)
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/moisaporto/alurakut'/>](alurakut-theta-five.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Aline-ACS/alurakutACS'/>](https://github.com/Aline-ACS/alurakutACS)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/BrunoCurcio/alurakut'/>](alurakut-delta-jet.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Nathalia-Urenha/alurakut'/>](alurakut-xi-two.vercel.app)
@@ -892,7 +892,6 @@ Seja bem vindo ao projeto base do Alurakut !!! Passos fundamentais:
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/ChristianSpinelli/alurakut'/>](https://alurakut-eight-black.vercel.app/)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/BrunG9/alurakut'/>](alurakut-brung9.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/zNexTage/alurakut'/>](alurakut-two.vercel.app)
-| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/ilbermendes/alurakut'/>](https://github.com/ilbermendes/alurakut)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/marcusrodriguesdev/alurakut'/>](https://github.com/marcusrodriguesdev/alurakut)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/rafapcarvalho/alurakut'/>](https://alurakut-rho-steel.vercel.app/)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/danielfilh0/alurakut'/>](https://alurakut-danielfilh0.vercel.app/)
@@ -1020,6 +1019,7 @@ Seja bem vindo ao projeto base do Alurakut !!! Passos fundamentais:
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/andgomes95/alurakut'/>](http://alurakut-five-kappa.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Alan-Jones-the-Aranmaru/alurakut'/>](alurakut-sand-kappa.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Cesarso/alurakut'/>](https://github.com/Cesarso/alurakut)
-| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Felipefsanos/Alurakut'/>](https://github.com/Felipefsanos/Alurakut)<!-- CHANNEL_PROJECTS:END --> |
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Felipefsanos/Alurakut'/>](https://github.com/Felipefsanos/Alurakut)
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/vihh25/alurakut'/>](alurakut-vihh25.vercel.app)<!-- CHANNEL_PROJECTS:END --> |
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square)](https://github.com/alura-challenges/alurakut-base/blob/master/LICENSE)
